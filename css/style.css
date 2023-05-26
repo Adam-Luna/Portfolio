@@ -1,0 +1,69 @@
+
+body {
+    background-color: #eeeeee;
+}
+
+.navbar {
+    background-color: #eeeeee;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #073763ff;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.section1 {
+    background-color: #073763ff;
+    color: #eeeeee;
+    font-size: 20px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.section2 {
+    background-color: #eeeeee;
+    color: #073763ff;
+    font-size: 20px;
+
+
+}
+
+.carousel {
+    background-color: #eeeeee;
+    border: 2px solid black;
+    border-radius: 25px;
+
+}
+
+.carousel_text {
+    color: #073763ff;
+    /*background-color: #eeeeee;*/
+}
+
+.carousel-inner {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #073763ff;
+}
+
+.carousel-indicators {
+    margin-bottom: -4px;
+    /*color: #073763ff;*/
+}
+
+.card {
+    background-color: #eeeeee;
+}
+
+.card-title {
+    color: #073763ff;
+}
