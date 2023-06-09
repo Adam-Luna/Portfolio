@@ -62,8 +62,27 @@ body {
 
 .card {
     background-color: #eeeeee;
+    display: inline-block;
 }
 
 .card-title {
     color: #073763ff;
+    font-size: 45px;
+}
+
+.card-body, hr {
+    color: #073763ff;
+}
+
+.title {
+    color: #eeeeee;
+}
+
+hr {
+    color: #eeeeee;
+}
+
+.img {
+    background-color: #eeeeee;
+    border: solid 1px #073763ff;
 }
